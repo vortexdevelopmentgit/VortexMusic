@@ -13,7 +13,6 @@
   <p>
     <a href="https://github.com/vortexdevelopmentgit/VortexMusic/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/vortexdevelopmentgit/VortexMusic?style=for-the-badge"></a>
     <a href="https://github.com/vortexdevelopmentgit/VortexMusic/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/vortexdevelopmentgit/VortexMusic?style=for-the-badge"></a>
-    <a href="https://github.com/vortexdevelopmentgit/VortexMusic/issues"><img alt="Issues" src="https://img.shields.io/github/issues/vortexdevelopmentgit/VortexMusic?style=for-the-badge"></a>
     <a href="https://github.com/vortexdevelopmentgit/VortexMusic/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/vortexdevelopmentgit/VortexMusic?style=for-the-badge"></a>
   </p>
 
@@ -191,5 +190,5 @@ This Code is Protected by VortexDevelopment License
 ---
 
 <div align="center">
-  Built by VortexDevelopment. ❤️
+  Built with ❤️ by VortexDevelopment. 
 </div>
