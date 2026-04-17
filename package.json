@@ -1,0 +1,21 @@
+{
+  "name": "vortexmusic",
+  "version": "1.0.0",
+  "description": "Discord music bot with discord.js, Lavalink multi-node and Components V2 UI.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "deploy": "node src/deploy-commands.js",
+    "check": "node --check src/index.js && node --check src/deploy-commands.js"
+  },
+  "engines": {
+    "node": ">=20.11.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.4.5",
+    "shoukaku": "^4.1.0"
+  }
+}
