@@ -1,15 +1,11 @@
 # VortexMusic
 
 <div align="center">
-
   <img src=".github/vortexmusic.png" alt="VortexMusic banner">
-
   <h3>Discord music bot with Lavalink multi-node, discord.js, and Components V2</h3>
-
   <p>
     A clean, multi-server music bot built for reliable playback, modular slash commands, and a modern Discord UI.
   </p>
-
   <p>
     <a href="https://github.com/vortexdevelopmentgit/VortexMusic/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/vortexdevelopmentgit/VortexMusic?style=for-the-badge"></a>
     <a href="https://github.com/vortexdevelopmentgit/VortexMusic/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/vortexdevelopmentgit/VortexMusic?style=for-the-badge"></a>
