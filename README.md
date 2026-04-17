@@ -122,7 +122,7 @@ VortexMusic/
 
 ```bash
 npm install
-npm start
+npm run start
 ```
 
 ## Environment Variables
@@ -132,9 +132,6 @@ Copy `.env.example` to `.env` and configure the following values:
 ```env
 DISCORD_TOKEN=
 DISCORD_CLIENT_ID=
-DISCORD_TEST_GUILD_ID=
-DEFAULT_SEARCH_SOURCE=ytsearch
-DEFAULT_VOLUME=70
 ```
 
 ### Variable Notes
@@ -144,49 +141,6 @@ DEFAULT_VOLUME=70
 
 - `DISCORD_CLIENT_ID`
   Your Discord application ID.
-
-- `DISCORD_TEST_GUILD_ID`
-  Optional. If set, commands deploy to one test guild. If empty, commands deploy globally.
-
-- `DEFAULT_SEARCH_SOURCE`
-  Search source prefix for Lavalink, such as `ytsearch`.
-
-- `DEFAULT_VOLUME`
-  Default playback volume used when a player is created.
-
-## Lavalink Node Configuration
-
-Edit [config/nodes.js](C:\Users\nutel\VSCode\VortexMusic\config\nodes.js):
-
-```js
-module.exports = [
-  {
-    name: 'main-node',
-    url: '127.0.0.1:2333',
-    auth: 'youshallnotpass',
-    secure: false,
-  },
-];
-```
-
-### Example Multi-Node Setup
-
-```js
-module.exports = [
-  {
-    name: 'node1',
-    url: 'lava1.example.com:2333',
-    auth: 'password',
-    secure: false,
-  },
-  {
-    name: 'node2',
-    url: 'lava2.example.com:2333',
-    auth: 'password',
-    secure: false,
-  },
-];
-```
 
 ## Running The Bot
 
@@ -212,7 +166,6 @@ npm run check
 
 ## Notes
 
-- Commands are in English only.
 - `stop` also disconnects the bot from voice.
 - The player panel uses Components V2.
 - Global slash command deployment can take time to propagate.
@@ -233,10 +186,10 @@ If you want to improve the bot, keep changes consistent with the current archite
 
 ## License
 
-Add a license file to the repository if you want the badge and distribution terms to be accurate.
+This Code is Protected by VortexDevelopment License
 
 ---
 
 <div align="center">
-  Built for VortexDevelopment.
+  Built by VortexDevelopment. ❤️
 </div>
