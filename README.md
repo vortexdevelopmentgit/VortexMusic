@@ -11,7 +11,6 @@
     <a href="https://github.com/vortexdevelopmentgit/VortexMusic/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/vortexdevelopmentgit/VortexMusic?style=for-the-badge"></a>
     <a href="https://github.com/vortexdevelopmentgit/VortexMusic/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/vortexdevelopmentgit/VortexMusic?style=for-the-badge"></a>
   </p>
-
 </div>
 
 ---
